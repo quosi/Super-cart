@@ -1,2 +1,2 @@
 # doodl
-Customer journey analysis
+Customer journey analysis in a super market.
